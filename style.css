@@ -1,0 +1,26 @@
+.heading
+{
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    color: white;
+}
+.instructions
+{
+    font-size: 15px;
+    color: white;
+}
+body
+{
+    background-size: cover;
+}
+#theSong
+{
+    font-size: 23px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+}
